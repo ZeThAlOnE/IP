@@ -15,7 +15,7 @@ cd IP
 
 chmod +x *
 
-python IPLocatIon.py
+python IpLocatIon.py
 
 # For Linux
 
@@ -31,4 +31,4 @@ cd IP
 
 chmod +x *
 
-python IPLocatIon.py
+python IpLocatIon.py
