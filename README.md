@@ -1,3 +1,2 @@
 # IPLocatIon
-
-# Dapatkan IP, Alamat Website, dan Lokasi
+# Get IP, Website Address and Location
