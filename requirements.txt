@@ -1,7 +1,0 @@
-requests
-mechanize
-colorama
-pyparsing
-stem
-pandas
-bs4
